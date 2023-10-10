@@ -12,6 +12,7 @@
 - [google-colab-aws-boilerplate](https://colab.research.google.com/drive/1AJk5OxNZT9sZMYH5wqLKe63UMpiDQSUA?usp=sharing): Google Colab AWS Python template for loading data from S3.
 
 ## Tutorials
+- [docker-tutorial](https://github.com/jetpackAI/jetpack-toolbox/tree/master/docker-tutorial): Docker Quickstart.
 - [data-quality-assurance](https://github.com/jetpackAI/jetpack-toolbox/tree/master/data-quality-assurance): Data Quality Assurance template. 
 - [airflow-docker](https://github.com/jetpackAI/jetpack-toolbox/tree/master/airflow-tools): Docker image for running Airflow locally.
 - [terraform-quickstart](https://github.com/jetpackAI/jetpack-toolbox/tree/master/terraform-examples/aws): Tutorial for launching an S3 Bucket and/ or Lambda function with Terraform on AWS.
