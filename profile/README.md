@@ -8,6 +8,7 @@
 ## Templates
 - [python-boilerplate](https://github.com/jetpackAI/python-boilerplate): Boilerplate for new Python repositories.
 - [react-app-boilerplate](https://github.com/jetpackAI/react-app-boilerplate): Boilerplate for React Apps.
+- [terragrunt-boilerplate](https://github.com/jetpackAI/terragrunt-boilerplate): Boilerplate for Terragrunt repositories.
 - [analytics-core](https://github.com/jetpackAI/analytics-core): Common functionalities and abstractions in Scala, for data analytics at Jetpack.
 - [google-colab-aws-boilerplate](https://colab.research.google.com/drive/1AJk5OxNZT9sZMYH5wqLKe63UMpiDQSUA?usp=sharing): Google Colab AWS Python template for loading data from S3.
 
